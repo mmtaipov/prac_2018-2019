@@ -1,0 +1,1 @@
+print("eto bylo potno")
